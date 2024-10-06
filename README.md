@@ -1,6 +1,7 @@
 This project is tested with BrowserStack.
-This project is tested with BrowserStack
 # xray
+This project is tested with BrowserStack
+
 # X-Ray Proxy
 
 X-Ray Proxy is a lightweight, multi-threaded HTTP/HTTPS proxy server implemented in Python. This project serves as a basic example of how to create a transparent proxy that can handle both HTTP and HTTPS traffic.
@@ -46,9 +47,10 @@ Contributions to improve the proxy or add features are welcome. Please feel free
 
 [MIT License](LICENSE)
 
+This project is tested with BrowserStack
 ## Acknowledgements
 
 This project was created as a learning exercise in network programming and proxy server implementation.
 
 This project is tested with BrowserStack.
-This project is tested with BrowserStack
+
