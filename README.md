@@ -47,3 +47,5 @@ Contributions to improve the proxy or add features are welcome. Please feel free
 ## Acknowledgements
 
 This project was created as a learning exercise in network programming and proxy server implementation.
+
+This project is tested with BrowserStack
